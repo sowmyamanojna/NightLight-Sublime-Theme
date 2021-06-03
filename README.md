@@ -17,7 +17,7 @@ In order to activate the theme and color scheme:
         mkdir Theme\ -\ Default/
         mv Sublime-Theme/ Theme\ -\ Default/nightlight
         ```
-    - Else, simple move the Night Light theme into the `Theme - Default/` folder.
+    - Else, move the Night Light theme into the `Theme - Default/` folder.
         ```bash
         mv Sublime-Theme/ Theme\ -\ Default/nightlight
         ```
@@ -26,6 +26,6 @@ In order to activate the theme and color scheme:
         ```bash
         mkdir Color\ Scheme\ -\ Default/
         ```
-    - Else, simple move the Night Light theme into the `Theme - Default/` folder.
+    - Else, move the Night Light color scheme into the `Color Scheme - Default/` folder.
 5. In order to have better icons, install the `A File Icon` package.
 6. Now the Night Light theme is set up. :smile:
