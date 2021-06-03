@@ -1,5 +1,7 @@
 # Night Light - Theme and Color Scheme
-A mix of the good from the official sublime theme and [Sublime Meetio theme](https://github.com/meetio-theme/sublime-meetio-theme), with some additions.
+Color Scheme - A refreshingly new color scheme that looks good with Night Light enabled.
+
+Theme - A mix of the good from the official sublime theme and [Sublime Meetio theme](https://github.com/meetio-theme/sublime-meetio-theme), with some additions.  
 
 In order to activate the theme and color scheme:
 
