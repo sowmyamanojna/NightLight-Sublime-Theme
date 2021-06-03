@@ -4,13 +4,13 @@ A mix of the good from the official sublime theme and [Sublime Meetio theme](htt
 In order to activate the theme and color scheme:
 
 1. Navigate to the `.config/subime-text/Packages/` folder using: 
-```bash
-cd /home/<user-name>/.config/sublime-text/Packages/
-```
+    ```bash
+    cd /home/<user-name>/.config/sublime-text/Packages/
+    ```
 2. Clone this git repository in the current folder using:
-```bash
-git clone https://github.com/sowmyamanojna/Sublime-Theme.git
-```
+    ```bash
+    git clone https://github.com/sowmyamanojna/Sublime-Theme.git
+    ```
 3. Check if the `Theme - Default/` folder exists:
     - If the folder doesn't exist, create the folder and move the Night Light theme into the folder.
     ```bash
