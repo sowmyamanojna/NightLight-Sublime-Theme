@@ -14,17 +14,17 @@ In order to activate the theme and color scheme:
     ```
 2. Clone this git repository in the current folder using:
     ```bash
-    git clone https://github.com/sowmyamanojna/Sublime-Theme.git
+    git clone https://github.com/sowmyamanojna/NightLight-Sublime-Theme.git
     ```
 3. Check if the `Theme - Default/` folder exists:
     - If the folder doesn't exist, create the folder and move the Night Light theme into the folder.
         ```bash
         mkdir Theme\ -\ Default/
-        mv Sublime-Theme/ Theme\ -\ Default/nightlight
+        mv NightLight-Sublime-Theme/ Theme\ -\ Default/nightlight
         ```
     - Else, move the Night Light theme into the `Theme - Default/` folder.
         ```bash
-        mv Sublime-Theme/ Theme\ -\ Default/nightlight
+        mv NightLight-Sublime-Theme/ Theme\ -\ Default/nightlight
         ```
 4. In order to activate the nightlight color scheme, navigate back to the `.config/subime-text/Packages/` folder and check if the `Color Scheme - Default` folder exists.
     - If the folder doesn't exist, create the folder and move the nightlight color scheme into the folder.
